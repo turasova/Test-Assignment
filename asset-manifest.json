@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Test-Assignment/static/css/main.7acaea2f.css",
-    "main.js": "/Test-Assignment/static/js/main.07d3183d.js",
+    "main.css": "/Test-Assignment/static/css/main.74f2eb01.css",
+    "main.js": "/Test-Assignment/static/js/main.9a48ea85.js",
+    "static/media/ethereum-fees-lowest-1.png": "/Test-Assignment/static/media/ethereum-fees-lowest-1.57c84f5c3b8c1437160d.png",
     "index.html": "/Test-Assignment/index.html",
-    "main.7acaea2f.css.map": "/Test-Assignment/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Test-Assignment/static/js/main.07d3183d.js.map"
+    "main.74f2eb01.css.map": "/Test-Assignment/static/css/main.74f2eb01.css.map",
+    "main.9a48ea85.js.map": "/Test-Assignment/static/js/main.9a48ea85.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.74f2eb01.css",
+    "static/js/main.9a48ea85.js"
   ]
 }
