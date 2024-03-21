@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    border-radius: 4px;
+}
+.inputPrice {
+    max-width: 194px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    height: 25px;
+
+}
+.selectActions{
+    max-width: 200px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    height: 25px;
+}
+.button {
+    max-width: 200px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 5px 5px;
+
+}
+.button:hover,
+.button:focus {
+  background-color: rgb(245, 88, 221);
+  color: white;
+}
+.price {
+    color: white;
+    font-weight: 600;
+    margin-left: 30px;
+   
+   
+}
+.containerResult {
+margin-bottom:25px ;
+}
